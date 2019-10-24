@@ -2,4 +2,9 @@
 Test test test 
 Meer testen 
 nog meer testen
+<<<<<<< HEAD
 deze is anders dan 
+=======
+dan deze, probleem.....
+meer probleem
+>>>>>>> 256d8f96f51efbddc432883228879b01190c688e
